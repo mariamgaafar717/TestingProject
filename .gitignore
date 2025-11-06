@@ -26,3 +26,4 @@ AutomationTesting/Drivers/*.dmg
 ### Temporary test data
 AutomationTesting/TestData/*.tmp
 
+*.mp4
