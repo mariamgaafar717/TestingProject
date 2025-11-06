@@ -1,0 +1,28 @@
+### IntelliJ project files
+.idea/
+*.iml
+out/
+
+### Build files
+target/
+build/
+
+### Logs and reports
+*.log
+*.tmp
+*.bak
+AutomationTesting/Reports/*
+ManualTesting/TestReports/*
+
+### System files
+.DS_Store
+Thumbs.db
+
+### Drivers (optional)
+AutomationTesting/Drivers/*.exe
+AutomationTesting/Drivers/*.zip
+AutomationTesting/Drivers/*.dmg
+
+### Temporary test data
+AutomationTesting/TestData/*.tmp
+
