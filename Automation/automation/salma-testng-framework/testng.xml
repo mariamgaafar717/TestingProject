@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Salma TestNG Suite" verbose="1">
+  <test name="AutomationExercise Tests">
+    <classes>
+      <class name="Salma.testng.tests.TC11_AddToCartTest"/>
+      <class name="Salma.testng.tests.TC12_RemoveFromCartTest"/>
+      <class name="Salma.testng.tests.TC13_QuantityFourTest"/>
+      <class name="Salma.testng.tests.TC17_SubscribeFooterTest"/>
+      <class name="Salma.testng.tests.TC22_AddRecommendedTest"/>
+    </classes>
+  </test>
+</suite>
